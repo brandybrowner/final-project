@@ -1,0 +1,69 @@
+img {
+	display: inline-block;
+	width: 250px;
+}
+
+section {
+	width: 1280px;
+	background-attachment: fixed;
+	position: relative;
+	display: inline-block;
+}
+
+.cards {
+	height: 800px;
+}
+
+.meaning {
+	height:600px;
+}
+
+#fortune {
+	width:74px;
+	height: 20px;
+	text-align: center;
+	padding: 5px;
+	color: #957544;
+	background-color: #281d34;
+}
+/*.rep {
+	width: 100px;
+}*/
+
+/*.card_1, .card_2, .card_3 {
+	display: block;
+}*/
+
+#part, #part2 {
+	margin-left: 265px;
+	margin-top: 64px;
+}
+
+.define {
+	display: inline-block;
+	width: 200px;
+	/*height: 300px;*/
+	padding: 23px;
+	/*background: grey;
+	border: solid black 2px;*/
+
+}
+
+#part2 {
+	width: 750px;
+	height: 300px;
+	background: grey;
+	border: solid black 2px;
+}
+
+#card_4, #card_5, #card_6, #card_7, #card_8, #card_9  {
+	height: 100px;
+}
+
+.cards {
+	background-image: url(../images_2/background_lace.jpg);
+}
+
+.meaning {
+	background-image: url(../images_2/background_floral.jpg);
+}
